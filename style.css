@@ -83,13 +83,14 @@ body{
 }
 
 .calc-buttons-row .Cero{
-    width: 240px;
+    width: 320px;
     margin-left: 13px;
 }
 
 .calc-button:last-child{
     background-color: #9B4A47;
-    color:white
+    color:white;
+    width: 120px;
 }
 
 .calc-button:hover{
